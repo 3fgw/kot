@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Game</string>
+    <string name="button">Tab me to win !! 😂😁</string>
+    <string name="textView">Score: %s</string>
+    <string name="textView3">Past time: %s</string>
+</resources>
